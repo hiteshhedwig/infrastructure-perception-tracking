@@ -1,6 +1,16 @@
 # IPT: Infrastructure Perception, Tracking, and Event Analytics
 
+## Demo preview
+
+<p align="center">
+  <img src="docs/images/bev-risk-view.png" alt="BEV tracking and group-crossing risk view" width="49%">
+  <img src="docs/images/camera-risk-view.png" alt="Multi-camera 3D tracking and group-crossing risk view" width="49%">
+</p>
+
+
+
 IPT is a development repository for an infrastructure-based 3D perception stack.
+
 
 The current checkpoint demonstrates a roadside autonomy workflow:
 
