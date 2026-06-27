@@ -1,0 +1,10 @@
+# Project-side lightweight dependencies.
+# CoopDet3D/MMCV/MMDetection3D/TorchSparse are handled separately in external/coopdet3d.
+numpy
+pandas
+scipy
+matplotlib
+opencv-python
+Pillow
+tqdm
+scikit-learn
