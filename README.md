@@ -2,7 +2,7 @@
 
 IPT is a development repository for an infrastructure-based 3D perception stack.
 
-The current checkpoint demonstrates a Seoul-Robotics-style roadside autonomy workflow:
+The current checkpoint demonstrates a roadside autonomy workflow:
 
 ```text
 TUMTraf-V2X roadside / cooperative sensor data
