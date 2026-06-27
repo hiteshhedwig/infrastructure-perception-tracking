@@ -3,8 +3,8 @@
 ## Demo preview
 
 <p align="center">
-  <img src="docs/images/bev-risk-view.png" alt="BEV tracking and group-crossing risk view" width="49%">
-  <img src="docs/images/camera-risk-view.png" alt="Multi-camera 3D tracking and group-crossing risk view" width="49%">
+  <img src="docs/images/bev-image.png" alt="BEV tracking and group-crossing risk view" width="49%">
+  <img src="docs/images/infra-image.png" alt="Multi-camera 3D tracking and group-crossing risk view" width="49%">
 </p>
 
 
