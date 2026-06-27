@@ -1,4 +1,4 @@
-# CHECKPOINT_V1_SEOUL_STYLE_INFRA_PERCEPTION_DEMO
+# CHECKPOINT_V1_STYLE_INFRA_PERCEPTION_DEMO
 
 This checkpoint marks the first stable demo package for the infrastructure perception project.
 
@@ -43,7 +43,7 @@ outputs/interactive_viewer/train_as_eval_153_233_v8_group_crossing/index.html
 Final demo path:
 
 ```text
-demo/seoul_style_infra_perception_demo/full_scene_153_233/index.html
+demo/style_infra_perception_demo/full_scene_153_233/index.html
 ```
 
 ---
@@ -76,7 +76,7 @@ outputs/interactive_viewer/train_as_eval_075_152_v7_events_camera_highlight/inde
 Final demo path:
 
 ```text
-demo/seoul_style_infra_perception_demo/full_scene_075_152/index.html
+demo/style_infra_perception_demo/full_scene_075_152/index.html
 ```
 
 ---
@@ -84,8 +84,8 @@ demo/seoul_style_infra_perception_demo/full_scene_075_152/index.html
 ## Replay videos
 
 ```text
-demo/seoul_style_infra_perception_demo/videos/full_scene_153_233_bev_plus_cameras.mp4
-demo/seoul_style_infra_perception_demo/videos/full_scene_075_152_bev_plus_cameras.mp4
+demo/style_infra_perception_demo/videos/full_scene_153_233_bev_plus_cameras.mp4
+demo/style_infra_perception_demo/videos/full_scene_075_152_bev_plus_cameras.mp4
 ```
 
 ---

@@ -22,13 +22,13 @@ This repository is intended to stay small enough for GitHub while still being us
 ## Current checkpoint
 
 ```text
-CHECKPOINT_V1_SEOUL_STYLE_INFRA_PERCEPTION_DEMO
+CHECKPOINT_V1_STYLE_INFRA_PERCEPTION_DEMO
 ```
 
 Stable demo:
 
 ```text
-demo/seoul_style_infra_perception_demo/
+demo/style_infra_perception_demo/
 ```
 
 Main demo scenes:
@@ -114,7 +114,7 @@ ipt_clean/
     training/
 
   demo/
-    seoul_style_infra_perception_demo/
+    style_infra_perception_demo/
 
   outputs/
     local generated outputs, ignored by Git
@@ -275,7 +275,7 @@ Then place the checkpoint there.
 If the demo folder is included:
 
 ```bash
-cd demo/seoul_style_infra_perception_demo
+cd demo/style_infra_perception_demo
 python -m http.server 8000
 ```
 

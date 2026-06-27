@@ -214,7 +214,7 @@ outputs/combined_viz/final_full_scene_075_152_bev_camera/bev_plus_cameras.mp4
 Final package structure:
 
 ```text
-demo/seoul_style_infra_perception_demo/
+demo/style_infra_perception_demo/
   README.md
   start_demo_server.sh
   full_scene_153_233/

@@ -7,13 +7,13 @@ The final demo is a static HTML + assets + MP4 package.
 ## Demo path
 
 ```text
-demo/seoul_style_infra_perception_demo/
+demo/style_infra_perception_demo/
 ```
 
 Structure:
 
 ```text
-demo/seoul_style_infra_perception_demo/
+demo/style_infra_perception_demo/
   README.md
   start_demo_server.sh
 
@@ -37,7 +37,7 @@ demo/seoul_style_infra_perception_demo/
 ## Run demo
 
 ```bash
-cd demo/seoul_style_infra_perception_demo
+cd demo/style_infra_perception_demo
 python -m http.server 8000
 ```
 
@@ -124,8 +124,8 @@ Recommended order:
 
 ```bash
 grep -R "__EVENT_EPISODE_PATCHED__\|__EVENT_CAMERA_HIGHLIGHT_PATCHED__\|__GROUP_CROSSING_PATCHED__" \
-  demo/seoul_style_infra_perception_demo/full_scene_153_233/index.html \
-  demo/seoul_style_infra_perception_demo/full_scene_075_152/index.html
+  demo/style_infra_perception_demo/full_scene_153_233/index.html \
+  demo/style_infra_perception_demo/full_scene_075_152/index.html
 ```
 
 Expected:

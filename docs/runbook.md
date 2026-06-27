@@ -424,7 +424,7 @@ bash scripts/pipeline/serve_demo.sh
 Or manually:
 
 ```bash
-cd demo/seoul_style_infra_perception_demo
+cd demo/style_infra_perception_demo
 python -m http.server 8000
 ```
 
@@ -443,8 +443,8 @@ Check event patches in final HTML:
 
 ```bash
 grep -R "__EVENT_EPISODE_PATCHED__\|__EVENT_CAMERA_HIGHLIGHT_PATCHED__\|__GROUP_CROSSING_PATCHED__" \
-  demo/seoul_style_infra_perception_demo/full_scene_153_233/index.html \
-  demo/seoul_style_infra_perception_demo/full_scene_075_152/index.html
+  demo/style_infra_perception_demo/full_scene_153_233/index.html \
+  demo/style_infra_perception_demo/full_scene_075_152/index.html
 ```
 
 Expected:

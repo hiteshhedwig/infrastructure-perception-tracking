@@ -1,9 +1,9 @@
-# CHECKPOINT_V1_SEOUL_STYLE_INFRA_PERCEPTION_DEMO
+# CHECKPOINT_V1_STYLE_INFRA_PERCEPTION_DEMO
 
 Stable final demo:
 
 ```text
-demo/seoul_style_infra_perception_demo
+demo/style_infra_perception_demo
 ```
 
 Scenes:

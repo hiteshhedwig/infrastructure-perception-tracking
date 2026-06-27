@@ -123,7 +123,7 @@ python -c "import torchsparse; print('torchsparse ok')"
 Serve with HTTP server. Do not open `index.html` directly from file explorer.
 
 ```bash
-cd demo/seoul_style_infra_perception_demo
+cd demo/style_infra_perception_demo
 python -m http.server 8000
 ```
 
