@@ -1,0 +1,4 @@
+[submodule "external/coopdet3d"]
+	path = external/coopdet3d
+	url = https://github.com/hiteshhedwig/coopdet3d.git
+	branch = ipt-local-mods
